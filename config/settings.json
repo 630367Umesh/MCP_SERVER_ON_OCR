@@ -1,0 +1,4 @@
+{
+    "OCR_ENGINE": "tesseract",
+    "GROQ_MODEL": "llama3-70b-8192"
+}
